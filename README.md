@@ -3,7 +3,7 @@ I'm currently working on an AI driven game bot<br>I'm currently learning SQL, PH
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]🍜 P-R-O-O-X-Y 🍜#7074
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] 🍜 P-R-O-O-X-Y 🍜#7074
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@eoceneart)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maximilien-veran) 
 
